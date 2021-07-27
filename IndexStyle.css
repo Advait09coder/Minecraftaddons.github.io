@@ -1,0 +1,18 @@
+h1{
+    color: blue;
+}
+#trending{
+    color: black;
+    font-size: 100px;
+}
+button{
+    height: 400px;
+    width: 1500px;
+    font-size: 35px;
+    background-color: black;
+    color: white;
+}
+#palapre{
+    height: 250px;
+    width: 500px;
+}
